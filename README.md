@@ -1,6 +1,9 @@
 # Aerotoria!!!
 A combo of userscript and userstyle that replaces a chunk of Polytoria with Windows 7. You could also replace 7 with XP or 95.
 
+# Installation
+First, you need Stylus and Tampermonkey (or ViolentMonkey?). Click on this [userstyle](https://github.com/IcedLuau/aerotoria/raw/refs/heads/main/aero.user.css) and install it.
+
 # Current Pages
 
 ### Games (Incomplete)
