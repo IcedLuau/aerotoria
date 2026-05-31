@@ -1,28 +1,12 @@
-/*
-.card-body {
-    background: #f004;
-    &:hover {
-        background: transparent;
-    }
-    
-    
-    border-radius: 0px !important;
-    margin: 0.2rem;
-}
-
-.card-dash {
-    background: blue;
-}
-
-.card {
-    background: purple;
-}
-
-.card-dash.card {
-    background: pink;
-}*/
-
-
+/* ==UserStyle==
+@name           AEROTORIA
+@namespace      github.com/icedluau/aerotoria
+@version        0.5.0
+@description    Windows 7 theming to make peaktoria.
+@author         IcedLuau
+@updateURL      https://raw.githubusercontent.com/IcedLuau/aerotoria/userstyle.css
+@downloadURL    https://raw.githubusercontent.com/IcedLuau/aerotoria/userstyle.css
+==/UserStyle== */
 @import url('https://unpkg.com/7.css');
 
 :root {
@@ -41,11 +25,15 @@ body {
     margin-left: 160px !important;
 }
 
-.tooltip-arrow, .dash-ctitle2, .dash-ctitle {
+.tooltip-arrow,
+.dash-ctitle2,
+.dash-ctitle {
     display: none !important;
 }
 
-.window-body, .text-reset, .window-body p {
+.window-body,
+.text-reset,
+.window-body p {
     color: var(--text-darker-7) !important;
 }
 
